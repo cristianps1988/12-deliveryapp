@@ -2,7 +2,7 @@
 @use 'base/mixins' as m;
 
 .pasos{
-
+    margin-top: v.$separacion;
     &__contenido{
         background-color: v.$primario;
         margin-top: -1px;
